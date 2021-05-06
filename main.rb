@@ -1,7 +1,7 @@
  # Defining a Method
  def introduction 
-  name = "Tina"
-  age = 23
+  name = "Jake"
+  age = 22
 
   puts "Hi! My name is #{name}. I am #{age} years old."
 end
